@@ -1,3 +1,5 @@
 - Bacon
 - Eggs
 - Apple Watch Ultra
+- Water Bottle 
+- Coffee
